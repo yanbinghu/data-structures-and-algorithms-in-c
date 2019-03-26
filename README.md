@@ -20,17 +20,21 @@
 + [利用栈实现表达式求值](stack/expressionEvaluation.md)
 
 ##　队列
+
 [队列](queue)
 
 ## 树
 [树](tree)
 
 ## 优先队列
+
 [优先队列](heap)
 
 ##　散列表
+
 [散列表](hashTable)
 
 
 ## 排序
+
 [排序](sort)
