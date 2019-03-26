@@ -19,7 +19,8 @@
 + [数组栈](stack/arrayStack.c)
 + [利用栈实现表达式求值](stack/expressionEvaluation.md)
 
-##　队列
+
+## 队列
 
 #### [队列](queue)
 
