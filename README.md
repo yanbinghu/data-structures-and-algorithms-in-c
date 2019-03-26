@@ -8,3 +8,4 @@
 + [leetcode题解-20.有效的括号](stack/leetcode题解-20.有效的括号.md)
 + [链式栈](stack/linkStack.c)
 + [数组栈](stack/arrayStack.c)
++ [利用栈实现表达式求值](stack/expression Evaluation.md)
