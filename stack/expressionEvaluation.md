@@ -129,7 +129,7 @@ stack1:
 ||||||
 
 ## 代码实现
-```
+```c
 #include<stdio.h>
 #include<ctype.h>
 #define STACK_SIZE 64 /*栈大小*/
