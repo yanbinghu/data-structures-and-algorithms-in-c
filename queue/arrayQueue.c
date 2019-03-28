@@ -1,3 +1,4 @@
+//arrayQueue.c
 #include <stdio.h>
 #include <string.h>
 typedef int ElementType;
@@ -26,7 +27,8 @@ int queue_is_full(QueueInfo *queue)
         printf("queue is full\n");
         return TRUE;
     }
-    else return FALSE;
+    else 
+        return FALSE;
 }
 /*判断队列是否为满*/
 int queue_is_empty(QueueInfo *queue)
@@ -36,7 +38,8 @@ int queue_is_empty(QueueInfo *queue)
         printf("queue is empty\n");
         return TRUE;
     }
-    else return FALSE;
+    else 
+        return FALSE;
 }
 
 /*出队*/
@@ -62,7 +65,6 @@ int queue_insert(QueueInfo *queue,ElementType value)
     printf("insert %d  to %d\n",value,queue->rear);
     return SUCCESS;
 }
-
 int main(void)
 {
     /*队列初始化*/
