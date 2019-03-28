@@ -13,16 +13,18 @@
 ## 栈
 #### [栈](stack)
 
-+ [栈-C语言实现](stack/栈-c语言实现.md)
-+ [leetcode题解-20.有效的括号](stack/leetcode题解-20.有效的括号.md)
++ [栈-C语言实现（文）](https://www.yanbinghu.com/2019/03/16/31765.html)
++ [leetcode题解-20.有效的括号（文）](https://www.yanbinghu.com/2019/03/17/62434.html)
 + [链式栈](stack/linkStack.c)
 + [数组栈](stack/arrayStack.c)
-+ [利用栈实现表达式求值](stack/expressionEvaluation.md)
++ [利用栈实现表达式求值（文）](https://www.yanbinghu.com/2019/03/24/57779.html)
 
 
 ## 队列
 
 #### [队列](queue)
++ [队列-C语言实现(文)](https://www.yanbinghu.com/2019/03/28/13055.html)
++ [数组实现队列](queue/arrayQueue.c)
 
 ## 树
 #### [树](tree)
