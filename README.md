@@ -47,5 +47,5 @@
 
 #### [排序](sort)
 
-+ [快速排序](https://www.yanbinghu.com/2019/02/21/28355.html)
++ [快速排序（文）](https://www.yanbinghu.com/2019/02/21/28355.html)
 + [快速排序递归法](sort/quicksort.c)
