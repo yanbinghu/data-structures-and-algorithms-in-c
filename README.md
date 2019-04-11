@@ -30,7 +30,7 @@
 #### [树](tree)
 
 + [二叉查找树（文）](https://www.yanbinghu.com/2019/04/10/9448.html)
-+ [二叉树遍历（文）](https://www.yanbinghu.com/2019/04/11/55964.html)
++ [二叉树遍历（文）](https://www.yanbinghu.com/2019/04/11/63105tml)
 + [二叉树遍历](tree/traversal.c)
 + [二叉树插入查找删除](tree/binarySearchTree.c)
 
