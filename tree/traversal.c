@@ -237,6 +237,7 @@ int main(void)
         printf("%d ",ret[i]);
         i++;
     }
+    free(ret);
     printf("\n");
     return 0;
 }
