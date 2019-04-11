@@ -29,6 +29,11 @@
 ## 树
 #### [树](tree)
 
+[二叉查找树（文）](https://www.yanbinghu.com/2019/04/10/9448.html)
+[二叉树遍历（文）](https://www.yanbinghu.com/2019/04/11/55964.html)
+[二叉树遍历](tree/traversal.c)
+[二叉树插入查找删除](tree/binarySearchTree.c)
+
 ## 优先队列
 
 #### [优先队列](heap)
@@ -42,5 +47,5 @@
 
 #### [排序](sort)
 
-+ [快速排序](sort/快速排序.md)
++ [快速排序](https://www.yanbinghu.com/2019/02/21/28355.html)
 + [快速排序递归法](sort/quicksort.c)
