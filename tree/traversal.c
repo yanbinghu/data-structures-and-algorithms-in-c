@@ -212,10 +212,10 @@ int main(void)
 {
     int a[] = {10,5,19,4,8,13,24};
 	TreeNode *tree = NULL;
-	for(int i = 0;i < 7;i++)
-	{
-		tree = insertTree(a[i],tree);
-	}
+    for(int i = 0;i < 7;i++)
+    {
+        tree = insertTree(a[i],tree);
+    }
     printf("\n层次遍历：");
 	PrintNodeByLevel(tree);
 
@@ -238,5 +238,5 @@ int main(void)
         i++;
     }
     printf("\n");
-	return 0;
+    return 0;
 }
