@@ -217,7 +217,7 @@ int main(void)
         tree = insertTree(a[i],tree);
     }
     printf("\n层次遍历：");
-	PrintNodeByLevel(tree);
+    PrintNodeByLevel(tree);
 
     printf("\n前序遍历：");
     preOrder(tree);
