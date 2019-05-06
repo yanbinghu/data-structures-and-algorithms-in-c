@@ -42,6 +42,7 @@
 
 #### [散列表](hashTable)
 
++ [什么是散列表（文）](https://www.yanbinghu.com/2019/05/04/61373.html)
 
 ## 排序
 
@@ -49,3 +50,10 @@
 
 + [快速排序（文）](https://www.yanbinghu.com/2019/02/21/28355.html)
 + [快速排序递归法](sort/quicksort.c)
+
+## 二分法
+
+#### [二分法](binarySearch)
+
++ [从40亿个整数中找到不存在的一个（文）](https://www.yanbinghu.com/2018/12/25/10757.html)
++ [](binarySearch/findNotExistOne.c)
