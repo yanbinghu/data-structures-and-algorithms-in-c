@@ -56,4 +56,4 @@
 #### [二分法](binarySearch)
 
 + [从40亿个整数中找到不存在的一个（文）](https://www.yanbinghu.com/2018/12/25/10757.html)
-+ [](binarySearch/findNotExistOne.c)
++ [从40亿个整数中找到不存在的一个](binarySearch/findNotExistOne.c)
