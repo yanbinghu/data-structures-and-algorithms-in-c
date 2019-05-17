@@ -10,6 +10,7 @@
 * [散列表](#散列表)
 * [排序](#排序)
 * [二分法](#二分法)
+* [位图法](#位图法)
 
 ## 栈
 #### [栈](stack)
@@ -39,6 +40,9 @@
 
 #### [优先队列](heap)
 
++ [优先队列（文）](https://www.yanbinghu.com/2019/05/17/36705.html)
++ [优先队列](priorityQueue/priorityQueue.c)
+
 ## 散列表
 
 #### [散列表](hashTable)
@@ -58,3 +62,10 @@
 
 + [从40亿个整数中找到不存在的一个（文）](https://www.yanbinghu.com/2018/12/25/10757.html)
 + [从40亿个整数中找到不存在的一个](binarySearch/findNotExistOne.c)
+
+## 位图法
+
+#### [位图法](bitmap)
+
++ [对一千万整数快速排序](https://www.yanbinghu.com/2018/12/08/34927.html)
++ [bitmap](./bitmap/bitmap.c)
