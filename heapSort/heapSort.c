@@ -53,7 +53,7 @@ void heap_sort(ElementType arr[],int length)
     for(i = length /2;i >= 0;i--)
     {
         adjust_ele(arr,i,length);
-        //printArr(arr,length);
+        printArr(arr,length);
     }
     for(i = length-1;i > 0;i--)
     {
@@ -62,7 +62,7 @@ void heap_sort(ElementType arr[],int length)
         
         /*每次都处理堆顶元素*/
         adjust_ele(arr,0,i);
-        //printArr(arr,length);
+        printArr(arr,length);
     }
 }
 
